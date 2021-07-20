@@ -1,0 +1,16 @@
+Step-1: launch an EC2 Instance and save the instance ID into an environment variable
+
+
+
+
+
+step-2: Check the user data worked and the web server is running by typing the web server Ip on a browser and verifying you see (Hello World) 
+
+Step-3: Create an Image from that instance ID and save the imageID to a variable Image_ID
+
+
+
+Step-4: Use that image to launch an instance
+
+
+Step-5: Verify the web server is running by typing the IP address on the browser
